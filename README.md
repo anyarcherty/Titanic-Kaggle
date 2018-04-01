@@ -18,6 +18,11 @@ This project is to predict if a passenger survived the sinking of the Titanic or
         |sex|Sex|female male|
         |Age|Age in years| |
         |sibsp| number of siblings / spouses aboard the Titanic| |
+        
+        
+        
+        
+        
         |parch| number of parents / children aboard the Titanic| |
         
    
