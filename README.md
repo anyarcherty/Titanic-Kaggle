@@ -17,7 +17,7 @@ This project is to predict if a passenger survived the sinking of the Titanic or
         |survival|Survival|0 = No, 1 = Yes|
         |sex|Sex|female male|
         |Age|Age in years| |
-        |sibsp| number of siblings / spouses aboard the Titanic| |
+        |sibsp|number of siblings / spouses aboard the Titanic| |
         
         
         
