@@ -12,9 +12,12 @@ This project is to predict if a passenger survived the sinking of the Titanic or
         
    * Dataset Features:
    
-        |Variable|Definition|Key|
+        |Feature|Definition|Key|
         |------|------|-----|
         |survival|Survival|0 = No, 1 = Yes|
         |sex|Sex|female male|
+        |Age|Age in years| |
+        |sibsp| # of siblings / spouses aboard the Titanic| |
+        
    
    
