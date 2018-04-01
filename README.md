@@ -12,9 +12,9 @@ This project is to predict if a passenger survived the sinking of the Titanic or
         
    * Dataset Features:
    
-       | Prediction         |  Truth        |   Truth       |
+        | Feature        | Definition       |   Key      |
         | ----------------   |-------------  |-------------  | 
-        |                    | <=50K         |    >50K       |
+        |  survival          | Survival    |0 = No, 1 = Yes      |
    
         
    
