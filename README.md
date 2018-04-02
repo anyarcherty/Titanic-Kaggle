@@ -57,13 +57,13 @@ This project is to predict if a passenger survived the sinking of the Titanic or
 
    * Imputate Missing Value:
         
-        Drop Cabin Feature, which contains more than 77% missing value in both train and test dataset
+        * Drop Cabin Feature, which contains more than 77% missing value in both train and test dataset
         
-        Imputate Test Fare Feature with train fare feature mean
+        * Imputate Test Fare Feature with train fare feature mean
         
-        Imputate Train Embarked Feature with train embarked feature mode
+        * Imputate Train Embarked Feature with train embarked feature mode
         
-        Imputate Age Feature by Feature Correlation
+        * Imputate Age Feature by Feature Correlation
         
             Age Feature is most relevent with Fare feature 
             
