@@ -14,15 +14,15 @@ This project is to predict if a passenger survived the sinking of the Titanic or
    
         Survival: Passenger Survival Status
         
-        0 = No (the passenger is not survival) , 1 = Yes (the passenger is survival)
+         0 = No (the passenger is not survival) , 1 = Yes (the passenger is survival)
         
         Pclass: Passenger Socioeconomic Status
         
-        1st = Upper Level, 2nd = Middle Level, 3rd = Lower Level
+         1st = Upper Level, 2nd = Middle Level, 3rd = Lower Level
          
         Sex: Passenger Gender
         
-        male, female
+   male, female
                 
         Age: Passenger Age
         
