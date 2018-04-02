@@ -28,18 +28,29 @@ This project is to predict if a passenger survived the sinking of the Titanic or
         
          Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
 
-        sibsp: The dataset defines family relations in this way...
+        Sibsp: number of Sibling and Spouse
         
-        Sibling = brother, sister, stepbrother, stepsister
+         Sibling = brother, sister, stepbrother, stepsister
         
-        Spouse = husband, wife (mistresses and fiancés were ignored)
+         Spouse = husband, wife
 
-        parch: The dataset defines family relations in this way...
+        Parch: number of Parent and Children
         
-        Parent = mother, father
+         Parent = mother, father
         
-        Child = daughter, son, stepdaughter, stepson
+         Child = daughter, son, stepdaughter, stepson
+         
+         Some children travelled only with a nanny, therefore parch=0 for them
         
-        Some children travelled only with a nanny, therefore parch=0 for them
+        Ticket: Passenger Ticket Number
+        
+        Fare: Passenger Fare
+        
+        Cabin: Cabin Number
+        
+        Embarked: Port of Embarkation
+        
+         C = Cherbourg, Q = Queenstown, S = Southampton
+        
         
    
