@@ -65,14 +65,14 @@ This project is to predict if a passenger survived the sinking of the Titanic or
         
         * Imputate Age Feature by Feature Correlation
         
-            Age Feature is most relevent with Fare feature 
+              Age Feature is most relevent with Fare feature 
             
-            From the description, I divide fare into 4 group
+              From the description, I divide fare into 4 group
 
-            Group 1: fare: <=10
+              Group 1: fare: <=10
             
-            Group 2: fare: 10-15
+              Group 2: fare: 10-15
             
-            Group 3: fare: 15-30
+              Group 3: fare: 15-30
             
-            Group 4: fare: >30
+              Group 4: fare: >30
