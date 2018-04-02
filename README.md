@@ -19,10 +19,10 @@ This project is to predict if a passenger survived the sinking of the Titanic or
         Pclass: Passenger Socioeconomic Status
         
          1st = Upper Level, 2nd = Middle Level, 3rd = Lower Level
-         
-        Sex: Passenger Gender
         
-    male, female
+        Sex: Passenger Gender
+        
+         male, female
                 
    Age: Passenger Age
         
