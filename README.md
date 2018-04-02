@@ -16,7 +16,7 @@ This project is to predict if a passenger survived the sinking of the Titanic or
         | ----------------   |-------------     |-------------  | 
         |  survival          | Survival         |0 = No, 1 = Yes      |
         |   pclass          | 	Ticket class    |1 = 1st, 2 = 2nd, 3 = 3rd|
-        |sex                |	Sex             |            |
-        |Age                | Age in years      |               |
+        |sex                |	Sex             |     1       |
+        |Age                | Age in years      |     2          |
         
    
