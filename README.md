@@ -25,15 +25,17 @@ This project is to predict if a passenger survived the sinking of the Titanic or
         |   cabin            |  Cabin number        |                               |
         |   embarked         |  Port of Embarkation | C = Cherbourg, Q = Queenstown, S = Southampton|
         
-   * Variable Note
+   * Dataset Features:
    
-        pclass: A proxy for socio-economic status (SES)
-        ```
-        1st = Upper
-        2nd = Middle
-        3rd = Lower
-        ```
-        age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
+        Survival: Passenger Survival Status
+        
+                0 = No (the passenger is not survival) , 1 = Yes (the passenger is survival)
+        
+        Pclass: Passenger socioeconomic status (SES)
+               
+                1st = Upper Level, 2nd = Middle Level, 3rd = Lower Level
+                
+        Age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
 
         sibsp: The dataset defines family relations in this way...
         
