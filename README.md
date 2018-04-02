@@ -23,7 +23,7 @@ This project is to predict if a passenger survived the sinking of the Titanic or
         Sex: Passenger Gender
         
          male, female
-        
+        
         Age: Passenger Age
         
          Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
