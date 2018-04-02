@@ -79,8 +79,19 @@ This project is to predict if a passenger survived the sinking of the Titanic or
               
               Imputate the Age Feature by each Fare group
    
-   * Modify Ticket feature:
+   * Transforming Feature
    
-        * Tokenized the Ticket feature with numerical number
+        * Modify Ticket feature:
+   
+            Tokenized the Ticket feature with numerical number
     
-   * 
+        * One Hot Encode Embark Feature
+        
+        * Obtain the Title via Name Feature
+        
+   * Add more Feature
+        
+        * Add FamilySize Feature
+        
+        * Add IsAlone Feature
+  
