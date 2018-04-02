@@ -18,7 +18,7 @@ This project is to predict if a passenger survived the sinking of the Titanic or
         |   pclass           |  Ticket class        |1 = 1st, 2 = 2nd, 3 = 3rd      |
         |   sex              |  Sex                 | female, male|
         |   age              |  Age                 |                               |
-        |   sibsp            |  number of siblings / spouses aboard the Titanic|    |
+        |   sibsp            |  number of siblings / spouses aboard the Titanic| Sibling: brother, sister, stepbrother, stepsister  Spouse: husband, wife|
         |   parch            |  number of parents / children aboard the Titanic|    |
         |   ticket           |  Ticket number       |                               |
         |   fare             |  Passenger fare      |                               |
