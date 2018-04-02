@@ -53,4 +53,26 @@ This project is to predict if a passenger survived the sinking of the Titanic or
          C = Cherbourg, Q = Queenstown, S = Southampton
         
         
-   
+#### 1.2 Data Preprocess
+
+   * Imputate Missing Value:
+        
+        Drop Cabin Feature, which contains more than 77% missing value in both train and test dataset
+        
+        Imputate Test Fare Feature with train fare feature mean
+        
+        Imputate Train Embarked Feature with train embarked feature mode
+        
+        Imputate Age Feature by Feature Correlation
+        
+            Age Feature is most relevent with Fare feature 
+            
+            From the description, I divide fare into 4 group
+
+            Group 1: fare: <=10
+            
+            Group 2: fare: 10-15
+            
+            Group 3: fare: 15-30
+            
+            Group 4: fare: >30
