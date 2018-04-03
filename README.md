@@ -99,7 +99,15 @@ This project is to predict if a passenger survived the sinking of the Titanic or
 
    * Xgboost
    
-        Validation Accurary = 0.832
+        * Validation Accurary = 0.832
+        
+        * Update Parameter
+        
+            Grid Search with Cross Validation
+        
+          
+        
+        
     
    * Lgboost
    
