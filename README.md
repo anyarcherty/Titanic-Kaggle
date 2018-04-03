@@ -95,3 +95,4 @@ This project is to predict if a passenger survived the sinking of the Titanic or
         
         * Add IsAlone Feature
   
+#### 1.3 Model Selection
