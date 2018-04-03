@@ -107,45 +107,45 @@ The Final accurary for my code is `78.914`. It is `top 10%` in leadborad.
         
             Grid Search with Cross Validation
             
-            After parameter update, Validation Accurary is 0.832 
+            After parameter update, Validation Accurary is 0.838 
     
    * Lgboost
    
-        * Validation Accurary is 0.810
+        * Validation Accurary is 0.832
         
         * Update Parameter
         
             Grid Search with Cross Validation
             
-            After parameter update, Validation Accurary is 0.832 
+            After parameter update, Validation Accurary is 0.8328
    
    * Random Forest
    
-        * Validation Accurary is 0.793
+        * Validation Accurary is 0.832
         
         * Update Parameter
         
             Grid Search with Cross Validation
             
-            After parameter update, Validation Accurary is 0.793
+            After parameter update, Validation Accurary is 0.832
    
    * Support Vector Machine
         
-        * Validation Accurary is 0.793
+        * Validation Accurary is 0.816
         
    * Logistic Regression
    
-        * Validation Accurary is 0.777
+        * Validation Accurary is 0.821
    
    * KNN
         
-        * Validation Accurary is 0.804
+        * Validation Accurary is 0.788
         
         * Update Parameter
         
             Grid Search with Cross Validation
             
-            After parameter update, Validation Accurary is 0.782
+            After parameter update, Validation Accurary is 0.804
    
    
 #### 1.4 Stacking / Ensemble methods
