@@ -110,7 +110,7 @@ This project is to predict if a passenger survived the sinking of the Titanic or
    * KNN
    
 #### 1.4 Stacking / Ensemble methods
-    
+   
    Use Xgboost, Lgboost, Random Forest and KNN to build ensemble method.
    
    Predict the Testset
