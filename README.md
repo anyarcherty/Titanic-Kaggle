@@ -4,6 +4,8 @@
 
 This project is to predict if a passenger survived the sinking of the Titanic or not. 
 
+The Final accurary for my code is `78.914`. It is `top 10%` in leadborad.
+
 #### 1.1 Data Extraction
     
    * The Titanic: Machine Learning from Disaster is from kaggle:
@@ -125,9 +127,4 @@ This project is to predict if a passenger survived the sinking of the Titanic or
    
    * Predict the Testset
    
-#### 1.5 Output Result:
-   
-   The accurary is `78.914`. 
-   
-   It is `top 10%` in leadborad.
-   
+#### 1.5 Output Result
