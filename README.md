@@ -99,6 +99,8 @@ This project is to predict if a passenger survived the sinking of the Titanic or
 
    * Xgboost
    
+        Validation Accurary = 0.832
+    
    * Lgboost
    
    * Random Forest
@@ -111,7 +113,7 @@ This project is to predict if a passenger survived the sinking of the Titanic or
    
 #### 1.4 Stacking / Ensemble methods
    
-   * Use Xgboost, Lgboost, Random Forest and KNN to build ensemble method.
+   * Use Xgboost, Lgboost, Random Forest and KNN to build ensemble model.
    
    * Predict the Testset
    
