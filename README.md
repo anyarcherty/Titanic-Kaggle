@@ -153,7 +153,5 @@ The Final accurary for my code is `78.914`. It is `top 10%` in leadborad.
    * Use Xgboost, Lgboost, Random Forest and KNN to build ensemble model.
    
    * Predict the testset result
-   
-   * Predict the Testset result
    
 #### 1.5 Output Result
