@@ -79,7 +79,7 @@ The Final accurary for my code is `78.914`. It is `top 10%` in leadborad.
             
               Group 4: fare: >30
               
-              Imputate the Age Feature by each Fare group
+              Imputate the Age Feature by different Fare group
    
    * Transforming Feature
    
