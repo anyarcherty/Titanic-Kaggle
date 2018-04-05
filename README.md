@@ -83,6 +83,10 @@ The Final accurary for my code is `78.914`. It is `top 10%` in leadborad.
    
    * Transforming Feature
    
+        * Modify Age feature:
+            
+            Label Encode
+   
         * Modify Ticket feature:
    
             Tokenized the Ticket feature with numerical number
