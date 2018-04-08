@@ -157,3 +157,5 @@ This project is a practical project to predict if a passenger survived from the 
    * Predict the testset result
    
 #### 1.5 Output Result
+
+   * The predict accuracy is 0.781, top 15% in the leadboard
