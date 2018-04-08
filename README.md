@@ -2,7 +2,7 @@
 
 #### Purpose:
 
-This project is to predict if a passenger survived the sinking of the Titanic or not. 
+This poject is to predict if a passenger survived the sinking of the Titanic or not. 
 
 #### 1.1 Data Extraction
     
