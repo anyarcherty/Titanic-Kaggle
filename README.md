@@ -149,7 +149,7 @@ This project is a practical project to predict if a passenger survived from the 
         
             Grid Search with Cross Validation
             
-            After parameter update, Validation Accurary is 0.832
+            After parameter update, Validation Accurary is 0.83
    
    * KNN
         
@@ -159,7 +159,7 @@ This project is a practical project to predict if a passenger survived from the 
         
             Grid Search with Cross Validation
             
-            After parameter update, Validation Accurary is 0.804
+            After parameter update, Validation Accurary is 0.82
    
    
 #### 1.4 Stacking / Ensemble methods
