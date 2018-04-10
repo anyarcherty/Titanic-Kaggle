@@ -123,7 +123,7 @@ This project is a practical project to predict if a passenger survived from the 
    
    * Random Forest
    
-        * Validation Accurary is 0.832
+        * Validation Accurary is 0.83
         
         * Update Parameter
         
@@ -133,15 +133,15 @@ This project is a practical project to predict if a passenger survived from the 
    
    * Support Vector Machine
         
-        * Validation Accurary is 0.816
+        * Validation Accurary is 0.83
         
    * Logistic Regression
    
-        * Validation Accurary is 0.821
+        * Validation Accurary is 0.83
    
    * KNN
         
-        * Validation Accurary is 0.788
+        * Validation Accurary is 0.82
         
         * Update Parameter
         
