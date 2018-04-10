@@ -103,17 +103,17 @@ This project is a practical project to predict if a passenger survived from the 
 
    * Xgboost
    
-        * Validation Accurary is 0.838
+        * Validation Accurary is 0.85
         
         * Update Parameter
         
             Grid Search with Cross Validation
             
-            After parameter update, Validation Accurary is 0.838 
+            After parameter update, Validation Accurary is 0.85 
     
    * Lgboost
    
-        * Validation Accurary is 0.832
+        * Validation Accurary is 0.83
         
         * Update Parameter
         
