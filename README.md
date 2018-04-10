@@ -119,7 +119,7 @@ This project is a practical project to predict if a passenger survived from the 
         
             Grid Search with Cross Validation
             
-            After parameter update, Validation Accurary is 0.8328
+            After parameter update, Validation Accurary is 0.85
    
    * Random Forest
    
@@ -129,7 +129,7 @@ This project is a practical project to predict if a passenger survived from the 
         
             Grid Search with Cross Validation
             
-            After parameter update, Validation Accurary is 0.832
+            After parameter update, Validation Accurary is 0.85
    
    * Support Vector Machine
         
@@ -139,7 +139,7 @@ This project is a practical project to predict if a passenger survived from the 
         
             Grid Search with Cross Validation
             
-            After parameter update, Validation Accurary is 0.832
+            After parameter update, Validation Accurary is 0.84
         
    * Logistic Regression
    
