@@ -164,10 +164,10 @@ This project is a practical project to predict if a passenger survived from the 
    
 #### 1.4 Stacking / Ensemble methods
    
-   * Use Xgboost, Lgboost, Random Forest and SVM to build ensemble model.
+   * Use Xgboost, Lgboost, Random Forest, Logistic Regression and SVM to build ensemble model.
    
    * Predict the testset result
    
 #### 1.5 Output Result
 
-   * The predict accuracy is 0.78974, top 15% in the leadboard
+   * The predict accuracy is 0.78974, top 10% in the leadboard
